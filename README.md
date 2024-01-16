@@ -1,11 +1,9 @@
-Certainly! Here's the combined instruction set in a single file, assuming you're using Markdown, typically found in a `README.md` file:
-
-```markdown
 # React with Tailwind Project Setup
 
 ## Run Locally
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/monishatBaishnab/videoApp
    ```
@@ -15,10 +13,13 @@ Certainly! Here's the combined instruction set in a single file, assuming you're
    cd videoApp
    ```
 
+
+
 3. **Install Dependencies:**
+
    ```bash
    npm install
-   ```
+
 
 4. **Start the Development Server:**
    ```bash
