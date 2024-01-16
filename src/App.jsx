@@ -1,3 +1,4 @@
+import FAQContainer from "./components/FAQ/FAQContainer"
 import Navbar from "./components/Navigation/Navbar"
 import SubNav from "./components/Navigation/SubNav"
 import StudyContainer from "./components/StudyContainer/StudyContainer"
@@ -16,6 +17,7 @@ function App() {
         <StudyContainer />
         <StudyControl />
       </div>
+      <FAQContainer />
     </>
   )
 }
