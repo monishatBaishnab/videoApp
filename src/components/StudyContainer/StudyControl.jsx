@@ -16,7 +16,7 @@ const StudyControl = () => {
                 </div>
                 <button className="text-4xl text-blue-900"><MdOutlineFullscreen /></button>
             </div>
-            <div className="flex justify-between items-center">
+            <div className="flex justify-center items-center flex-wrap sm:justify-between">
                 <div className="max-w-40">
                     <img src={subLogo} alt="subLogo" />
                 </div>

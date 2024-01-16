@@ -37,7 +37,7 @@ const StudyTabs = () => {
     ]
     return (
         <div className="py-10">
-            <ul className="flex items-center justify-center gap-8">
+            <ul className="flex items-center justify-center gap-2 md:gap-8 flex-wrap">
                 {
                     tabs?.map(({ id, label }) => <TabItem key={id} label={label} active={id == 1} />)
                 }
