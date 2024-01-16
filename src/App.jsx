@@ -1,11 +1,10 @@
+import Navbar from "./components/Navigation/Navbar"
 
 function App() {
 
   return (
     <>
-      <div>
-        VideoApp
-      </div>
+      <Navbar />
     </>
   )
 }
